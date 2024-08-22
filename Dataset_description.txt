@@ -1,0 +1,10 @@
+Credits @ manishkr1754 
+
+1) Understanding Problem Statement
+The SONAR Rock Vs Mine Prediction falls under Classication Machine Learning Problem. 
+The project aims to develop a machine learning model capable of accurately distinguishing between metal cylinders(mines) and rocks based on SONAR return data.
+
+2) Understanding Data
+The project is based on SONAR return data. 
+Each data point consists of a set of 60 numerical values ranging between 0 to 1 representing the energy within specific frequency bands over time. 
+The labels are 'M' for mines and 'R' for rock. The numbers in the labels are in increasing order of aspect angle, but they do not encode the angle directly.
